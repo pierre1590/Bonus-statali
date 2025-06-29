@@ -147,5 +147,4 @@ node dist/main.js
 ## Contatti
 Autore Piero Sabino
 - Linkedin: [https://www.linkedin.com/in/pierosabino/](https://www.linkedin.com/in/pierosabino/)
-- Email: [piero.sa@icloud.com](mailto:
-    piero.sa@icloud.com)
+- Email: piero.sa@icloud.com
