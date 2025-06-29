@@ -1,0 +1,17 @@
+node_modukles/
+# Ignore node_modules directory
+dist/
+# Ignore distribution directory
+.env
+# Ignore environment variable files
+*.log
+# Ignore log files
+.vscode/
+# Ignore Visual Studio Code settings
+.DS_Store
+# Ignore macOS Finder metadata
+
+
+
+
+
