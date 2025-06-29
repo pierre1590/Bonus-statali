@@ -90,17 +90,17 @@ Assicurati di avere installato:
 - TypeScript (npm install -g typescript)
 
 ## Installazione
-1. Clona il repository:
+1) Clona il repository:
    ```bash
    git clone https://github.com/pierre1590/Bonus-statali.git
     ```
 
-2. Naviga nella cartella del progetto:
+2) Naviga nella cartella del progetto:
    ```bash
    cd Bonus-statali
    ```
 
-3. Installa le dipendenze:
+3) Installa le dipendenze:
    ```bash
     npm install
     ```
@@ -132,12 +132,12 @@ Contenuto di esempio di tsconfig.json:
 ```
 
 ## Esecuzione
-1. Compila il codice TypeScript:
+1) Compila il codice TypeScript:
 Esegui il compilatore TypeScript dalla radice del progetto. Questo creerà i file JavaScript compilati nella cartella dist/.
 ```bash
 tsc
 ```
-2. Esegui il codice JavaScript compilato:
+2) Esegui il codice JavaScript compilato:
 Lancia il file main.js generato. L'output del programma sarà visibile nella console.
 
 ```bash
