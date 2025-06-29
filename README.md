@@ -20,7 +20,7 @@ Questo progetto TypeScript modella la struttura operativa della piattaforma Bonn
             </a>
         </li>
         <li>
-            <a href='Come iniziare'>
+            <a href='#come-iniziare'>
                 Come Iniziare
             </a>
             <ol>
