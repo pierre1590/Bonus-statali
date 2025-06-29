@@ -77,7 +77,7 @@ Promozione Sport e Benessere: Gli utenti possono investire il risparmio ottenuto
 
 Assegnazione Incentivi: Le startup (come Bonny stessa) possono ricevere incentivi statali per supportare i loro progetti.
 
-## Come Iniziare
+# Come Iniziare
 Segui questi passaggi per configurare ed eseguire il progetto sul tuo ambiente locale.
 
 ## Prerequisiti
@@ -145,6 +145,6 @@ node dist/main.js
 ``` 
 
 ## Contatti
-Autore Piero Sabino
+Autore: Piero Sabino
 - Linkedin: [https://www.linkedin.com/in/pierosabino/](https://www.linkedin.com/in/pierosabino/)
 - Email: piero.sa@icloud.com
